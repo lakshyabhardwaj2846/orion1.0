@@ -1,4 +1,0 @@
-flask
-groq
-python-dotenv
-tzdata
